@@ -1,0 +1,85 @@
+[02:50:22] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[02:50:23] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 17
+	- minecraft 1.20.1
+[02:50:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/didactic-bassoon/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:50:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:50:28] [main/WARN]: Missing data pack fabric
+[02:50:30] [main/INFO]: Loaded 7 recipes
+[02:50:30] [main/INFO]: Loaded 1271 advancements
+[02:50:30] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:50:30] [Server thread/INFO]: Loading properties
+[02:50:30] [Server thread/INFO]: Default game type: SURVIVAL
+[02:50:30] [Server thread/INFO]: Generating keypair
+[02:50:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:50:30] [Server thread/INFO]: Using epoll channel type
+[02:50:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:50:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:50:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:50:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:50:30] [Server thread/INFO]: Preparing level "world"
+[02:50:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:50:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:50:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:50:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:50:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:34] [Worker-Main-2/INFO]: Preparing spawn area: 16%
+[02:50:35] [Worker-Main-3/INFO]: Preparing spawn area: 59%
+[02:50:35] [Server thread/INFO]: Time elapsed: 4263 ms
+[02:50:35] [Server thread/INFO]: Done (4.392s)! For help, type "help"
+[02:50:54] [Server thread/INFO]: Pikel_03[/127.189.11.85:59745] logged in with entity id 9 at (146.5, 3.0, 215.5)
+[02:50:54] [Server thread/INFO]: Pikel_03 joined the game
+[02:51:10] [Server thread/INFO]: Made Pikel_03 a server operator
+[02:51:17] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[02:51:59] [Server thread/INFO]: Pikel_03 has made the advancement [Stone Age]
+[02:52:03] [Server thread/INFO]: ziKoc[/127.59.215.201:47263] logged in with entity id 16 at (146.5, 3.0, 217.5)
+[02:52:03] [Server thread/INFO]: ziKoc joined the game
+[02:52:12] [Server thread/INFO]: [ziKoc: Set own game mode to Creative Mode]
+[02:52:14] [Server thread/INFO]: DinokoMC[/127.223.220.108:45289] logged in with entity id 19 at (144.5, 3.0, 217.5)
+[02:52:14] [Server thread/INFO]: DinokoMC joined the game
+[02:52:20] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[02:52:32] [Server thread/INFO]: [Pikel_03: Gave 1 [Structure Block] to Pikel_03]
+[02:52:58] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:53:03] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:53:19] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
+[02:53:22] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
+[02:53:50] [Server thread/INFO]: [Pikel_03: Teleported DinokoMC to Pikel_03]
+[02:53:50] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:54:00] [Server thread/INFO]: ziKoc has made the advancement [We Need to Go Deeper]
+[02:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[02:54:01] [Server thread/INFO]: Pikel_03 has made the advancement [We Need to Go Deeper]
+[02:54:01] [Server thread/INFO]: DinokoMC has made the advancement [We Need to Go Deeper]
+[02:54:17] [Server thread/INFO]: ziKoc has made the advancement [Ice Bucket Challenge]
+[02:54:48] [Server thread/WARN]: DinokoMC moved too quickly! -2.5144708375308085,3.7499878840888385,9.885166190064552
+[02:54:48] [Server thread/WARN]: Pikel_03 moved too quickly! -10.287699919737122,-1.3942464554023744,-2.324055754171269
+[02:54:49] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:54:50] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:55:18] [Server thread/WARN]: DinokoMC moved too quickly! -10.691869053710718,0.0037124064669207257,0.1621572397913269
+[02:55:28] [Server thread/INFO]: [Pikel_03: Teleported 3 entities to Pikel_03]
+[02:58:07] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:58:09] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:58:17] [Server thread/INFO]: [Pikel_03: Successfully filled 3080 block(s)]
+[02:58:26] [Server thread/WARN]: Pikel_03 moved too quickly! 9.343400530118302,1.681831238746578,4.833281515016282
+[02:58:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[02:58:29] [Server thread/WARN]: Pikel_03 moved too quickly! 7.759540973530591,4.1249432436916855,5.5737015878331135
+[02:58:30] [Server thread/WARN]: Pikel_03 moved too quickly! 7.58849660935941,3.3656475061981874,6.3814213226756635
+[02:58:38] [Server thread/INFO]: DinokoMC has made the advancement [Stone Age]
+[02:58:58] [Server thread/INFO]: DinokoMC has made the advancement [Ice Bucket Challenge]
+[02:59:02] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:59:23] [Server thread/INFO]: [ziKoc: Successfully filled 1 block(s)]
+[02:59:26] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:59:42] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[02:59:42] [Server thread/INFO]: DinokoMC left the game
+[02:59:42] [Server thread/INFO]: [ziKoc: Kicked DinokoMC: Kicked by an operator]
+[02:59:42] [Server thread/WARN]: handleDisconnection() called twice
+[02:59:46] [Server thread/INFO]: DinokoMC[/127.223.220.108:37129] logged in with entity id 6632 at (163.42319861759248, -11.0, 139.50334141997067)
+[02:59:46] [Server thread/INFO]: DinokoMC joined the game
+[02:59:54] [Server thread/INFO]: [Pikel_03: Set DinokoMC's game mode to Survival Mode]
+[02:59:56] [Server thread/INFO]: [Pikel_03: Made DinokoMC no longer a server operator]
+[03:00:23] [Server thread/INFO]: [ziKoc: Applied effect Strength to ziKoc]
+[03:00:24] [Server thread/INFO]: DinokoMC was slain by ziKoc
